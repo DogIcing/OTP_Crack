@@ -10,7 +10,7 @@ This C# Console Application Can Crack A TOTP From Just:
 4. Enter ```1706572329``` as the first OTP time
 5. Enter ```179396``` as the second OTP
 6. Enter ```1706573415``` as the second OTP time
-   Enter ```5``` as the secret length
+7. Enter ```5``` as the secret length
 8. The application will emit three beeps once it is finished
 
 This is a basic example which is has only a 5 charachter secret tospeed things up.

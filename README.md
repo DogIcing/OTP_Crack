@@ -13,4 +13,5 @@ This C# Console Application Can Crack A TOTP From Just:
 7. Enter ```5``` as the secret length
 8. The application will emit three beeps once it is finished
 
-This is a basic example which is has only a 5 charachter secret tospeed things up.
+This is a basic example which is has only a 5 charachter secret to speed things up.
+The secret was ```k4ggq```

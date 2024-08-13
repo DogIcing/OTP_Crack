@@ -24,7 +24,7 @@ nextChar("");
 
 void nextChar(string current)
 {
-    if (current.Length == 5)
+    if (current.Length == length)
     {
         if (count % 1000000 == 0)
         {
